@@ -1,0 +1,35 @@
+.App{
+    border: solid 1px black;
+    max-width: 100vw;
+}
+h1 .title{
+text-align: center;
+text-decoration: solid;
+text-decoration-color: salmon;
+
+}
+.red{
+    text-decoration-color: red;
+    color: red;
+    text-align:center;
+}
+.video{
+    width: 320px;
+    height: 240px;
+    margin-left: 450px;
+
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-left: 50%;
+    width: 50%;
+    
+}
+.img2{
+    margin-left: 0%;
+    width: 50%;
+    margin-top: -800px;
+    height: 395px;
+}
